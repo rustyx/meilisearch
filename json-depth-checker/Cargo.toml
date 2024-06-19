@@ -4,6 +4,7 @@ description = "A library that indicates if a JSON must be flattened"
 publish = false
 
 version.workspace = true
+rust-version.workspace = true
 authors.workspace = true
 # description.workspace = true
 homepage.workspace = true

@@ -1,6 +1,7 @@
 [package]
 name = "xtask"
 version.workspace = true
+rust-version.workspace = true
 authors.workspace = true
 description = "Workspace automation tool following the xtask pattern <https://github.com/matklad/cargo-xtask>"
 homepage.workspace = true

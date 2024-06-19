@@ -4,6 +4,7 @@ description = "The parser for the Meilisearch filter syntax"
 publish = false
 
 version.workspace = true
+rust-version.workspace = true
 authors.workspace = true
 # description.workspace = true
 homepage.workspace = true

@@ -3,6 +3,7 @@ name = "dump"
 publish = false
 
 version.workspace = true
+rust-version.workspace = true
 authors.workspace = true
 description.workspace = true
 edition.workspace = true
